@@ -1,0 +1,10 @@
+.ytCardGaming {
+  height: auto;
+  width: 23vw;
+}
+@media screen and (max-width: 768px) {
+  .ytCardGaming {
+    width: 38vw;
+    font-size: x-small;
+  }
+}

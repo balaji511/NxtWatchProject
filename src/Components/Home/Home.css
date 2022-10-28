@@ -1,0 +1,22 @@
+.InputField {
+  width: 50vw;
+  margin-left: 35px;
+}
+
+.ytCard {
+  height: auto;
+  width: 23vw;
+}
+.link {
+  text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+  .InputField {
+    width: 94vw;
+    margin-left: 0px;
+  }
+  .ytCard {
+    height: auto;
+    width: 95%;
+  }
+}

@@ -1,0 +1,8 @@
+.d {
+  height: 11vh;
+}
+@media screen and (max-width: 768px) {
+  .d {
+    height: 10vh;
+  }
+}
